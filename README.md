@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Atharva Pawar 👋
 
-<!--
-**atharva-glitch10/atharva-glitch10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🤖 AI Enthusiast
+💻 Full-Stack Developer
+🌐 Freelancer
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered applications and solving real-world problems through technology. I'm currently exploring **Generative AI, Machine Learning, Full-Stack Development, Cloud, and DevOps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages:** Python, C++, JavaScript, TypeScript, Java
+
+**Frameworks:** React, Next.js, Node.js, Express, FastAPI
+
+**AI/ML:** PyTorch, TensorFlow, OpenCV
+
+**Databases:** PostgreSQL, MySQL, Supabase
+
+**Tools:** Git, GitHub, Docker, VS Code
+
+## 📫 Connect
+
+* GitHub: https://github.com/atharva-glitch10
+* LinkedIn: https://www.linkedin.com/in/atharva-pawar-73451232a
+* Email: [pawaratharva2506@gmail.com](mailto:pawaratharva2506@gmail.com)
+
+> *Building, learning, and improving every day.* 🚀
